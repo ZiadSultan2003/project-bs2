@@ -1,0 +1,33 @@
+body {
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+.background {
+
+    background: url("./imgs/hamburger.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-bottom: 5%;
+
+}
+
+.letter {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-size: 36px;
+    opacity: 80%;
+}
+
+.custom {
+    letter-spacing: 5px;
+}
+
+.custom-1 {
+    letter-spacing: 2px;
+}
+
+.dash {
+    float: right;
+    height: 95%;
+}
